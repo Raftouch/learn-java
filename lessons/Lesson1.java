@@ -1,6 +1,8 @@
+package lessons;
+
 import java.util.Scanner;
 
-public class Main {
+public class Lesson1 {
     public static void main(String[] args) {
         System.out.println("Hi there!");
 
